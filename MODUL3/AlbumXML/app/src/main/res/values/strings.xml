@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlbumXML</string>
+    <string name="open_music">Open Music</string>
+    <string name="detail">Detail</string>
+    <string name="featured_albums">Featured Albums</string>
+    <string name="all_albums">All Albums</string>
+</resources>
